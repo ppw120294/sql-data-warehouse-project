@@ -1,9 +1,10 @@
 # Data Warehouse and Analytics Project
 
+Welcome to the Data Warehouse and Analytics Project Repository!🎯
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehuse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
 ---
-## Project Requirements
+## 🎯Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -31,4 +32,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-This project is licensed under the [MIT License](LICENSE). You are free t use, modify and share this project with proper attribution.
+🪪🎯This project is licensed under the [MIT License](LICENSE). You are free t use, modify and share this project with proper attribution.
