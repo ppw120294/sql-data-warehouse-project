@@ -33,4 +33,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-🪪🎯This project is licensed under the [MIT License](LICENSE). You are free t use, modify and share this project with proper attribution.
+🎯This project is licensed under the [MIT License](LICENSE). You are free t use, modify and share this project with proper attribution.
